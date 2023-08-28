@@ -1,4 +1,4 @@
-nama: OWASP INTEGRATION
+name: OWASP INTEGRATION
 on: [push]
 
 jobs:
